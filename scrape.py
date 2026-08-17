@@ -234,7 +234,23 @@ PAGE = """<!DOCTYPE html>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>빈또당 — 인스타 이벤트 응모 리스트</title>
-<meta name="description" content="지금 응모 가능한 인스타그램 경품 이벤트를 매일 자동으로 모아둔 목록.">
+<meta name="description" content="지금 응모 가능한 인스타그램 경품 이벤트를 매일 자동으로 모아둔 목록. 마감일순 정리, 게시물 바로가기.">
+<link rel="icon" type="image/svg+xml" href="favicon.svg">
+<link rel="apple-touch-icon" href="apple-touch-icon.png">
+<meta name="theme-color" content="#1f7a4d">
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="빈또당">
+<meta property="og:title" content="빈또당 — 인스타 경품 이벤트 모음">
+<meta property="og:description" content="지금 응모 가능한 이벤트만, 마감일순으로 매일 자동 갱신.">
+<meta property="og:url" content="https://spacehwi.github.io/binttodang/">
+<meta property="og:image" content="https://spacehwi.github.io/binttodang/og.png">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta property="og:image:alt" content="네잎클로버 로고와 빈또당">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="빈또당 — 인스타 경품 이벤트 모음">
+<meta name="twitter:description" content="지금 응모 가능한 이벤트만, 마감일순으로 매일 자동 갱신.">
+<meta name="twitter:image" content="https://spacehwi.github.io/binttodang/og.png">
 <style>
 :root{
   --bg:#f7faf8; --card:#fff; --ink:#16241c; --mut:#63756b; --line:#dfe8e2;
@@ -247,7 +263,8 @@ body{margin:0;background:var(--bg);color:var(--ink);
 a{color:var(--accent)}
 .wrap{max-width:1060px;margin:0 auto;padding:30px 18px 80px}
 header{border-bottom:2px solid var(--accent);padding-bottom:16px}
-.brand{display:flex;align-items:baseline;gap:10px;flex-wrap:wrap}
+.brand{display:flex;align-items:center;gap:11px;flex-wrap:wrap}
+.logo{flex:none;margin-bottom:2px}
 h1{font-size:30px;margin:0;letter-spacing:-.03em;color:var(--accent)}
 .sub{font-size:13px;color:var(--mut)}
 .upd{font-size:12px;color:var(--mut);margin-top:6px}
@@ -303,7 +320,7 @@ footer{margin-top:40px;padding-top:16px;border-top:1px solid var(--line);
 <body>
 <div class="wrap">
 <header>
-  <div class="brand"><h1>빈또당</h1><span class="sub">빈손으로 또 당첨 — 인스타 이벤트 응모 리스트</span></div>
+  <div class="brand"><svg class="logo" viewBox="0 0 100 100" width="42" height="42" aria-hidden="true"><path d="M50 62 C 53 73, 58 81, 68 87" fill="none" stroke="#15613c" stroke-width="5.5" stroke-linecap="round"/><g transform="translate(50 49)" fill="#2e9c64"><path transform="rotate(45)" d="M0 0 C-9.9 -8 -16 -16.7 -16 -25.8 C-16 -35.3 -8.8 -38.8 -3.8 -34.2 C-1.8 -32.3 -0.8 -32 0 -32 C0.8 -32 1.8 -32.3 3.8 -34.2 C8.8 -38.8 16 -35.3 16 -25.8 C16 -16.7 9.9 -8 0 0 Z"/><path transform="rotate(135)" d="M0 0 C-9.9 -8 -16 -16.7 -16 -25.8 C-16 -35.3 -8.8 -38.8 -3.8 -34.2 C-1.8 -32.3 -0.8 -32 0 -32 C0.8 -32 1.8 -32.3 3.8 -34.2 C8.8 -38.8 16 -35.3 16 -25.8 C16 -16.7 9.9 -8 0 0 Z"/><path transform="rotate(225)" d="M0 0 C-9.9 -8 -16 -16.7 -16 -25.8 C-16 -35.3 -8.8 -38.8 -3.8 -34.2 C-1.8 -32.3 -0.8 -32 0 -32 C0.8 -32 1.8 -32.3 3.8 -34.2 C8.8 -38.8 16 -35.3 16 -25.8 C16 -16.7 9.9 -8 0 0 Z"/><path transform="rotate(315)" d="M0 0 C-9.9 -8 -16 -16.7 -16 -25.8 C-16 -35.3 -8.8 -38.8 -3.8 -34.2 C-1.8 -32.3 -0.8 -32 0 -32 C0.8 -32 1.8 -32.3 3.8 -34.2 C8.8 -38.8 16 -35.3 16 -25.8 C16 -16.7 9.9 -8 0 0 Z"/></g></svg><h1>빈또당</h1><span class="sub">빈손으로 또 당첨 — 인스타 이벤트 응모 리스트</span></div>
   <div class="upd">마지막 갱신 __UPDATED__ · 매일 아침 자동 갱신</div>
 </header>
 
@@ -350,8 +367,9 @@ footer{margin-top:40px;padding-top:16px;border-top:1px solid var(--line);
 
 <script>
 const DATA = __DATA__;
-const TODAY = new Date("__TODAY__T00:00:00+09:00");
-const dd = s => new Date(s + "T00:00:00+09:00");
+// 날짜는 보는 사람의 시간대와 무관하게 같은 날짜로 읽히도록 로컬 자정으로 만든다
+const dd = s => { const [y,m,d] = s.split("-").map(Number); return new Date(y, m-1, d); };
+const TODAY = dd("__TODAY__");
 const left = s => Math.round((dd(s) - TODAY) / 86400000);
 const WD = ["일","월","화","수","목","금","토"];
 const esc = s => (s||"").replace(/[&<>"]/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
