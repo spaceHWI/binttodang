@@ -34,7 +34,8 @@ UA = ("Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 "
 
 # 고가 경품
 RE_BIG = re.compile(
-    r"노트북|맥북|아이패드|태블릿|아이폰|갤럭시|에어팟|버즈|워치|TV|티비|냉장고|세탁기|"
+    r"노트북|맥북|아이패드|태블릿|아이폰|갤럭시|에어팟|버즈|스마트워치|갤럭시\s?워치|애플\s?워치|"
+    r"TV\b|텔레비전|티브이|냉장고|세탁기|"
     r"건조기|에어컨|공기청정기|로봇청소기|안마의자|자전거|캠핑|텐트|여행|숙박|호텔|리조트|"
     r"항공|캐리어|카메라|드론|오즈모|프로젝터|스피커|헤드폰|이어폰|커피머신|에어프라이어|"
     r"정수기|스타일러|다이슨|런닝머신|러닝머신|트레드밀|백화점\s?상품권|"
@@ -159,7 +160,7 @@ def parse_page(raw):
             "end": dates[1],
             "announce": field(dtext, "발표일정", "응모현황"),
             "how": how,
-            "big": bool(RE_BIG.search(blob)),
+            "big": bool(RE_BIG.search(prize_blob)),
             "run": bool(RE_RUN_PRIZE.search(prize_blob)
                         or RE_RUN_HOST.search(host + " " + title)),
             "easy": not bool(RE_HARD.search(how)),

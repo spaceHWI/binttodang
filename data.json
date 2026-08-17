@@ -286,7 +286,7 @@
    "end": "2026-08-25",
    "announce": "2026-08-31",
    "how": "팔로우 좋아요 → 로보락 1등 이유 댓글",
-   "big": true,
+   "big": false,
    "run": false,
    "easy": true,
    "url": "https://www.instagram.com/p/Db7mIIPmHqO/"
@@ -320,7 +320,7 @@
    "end": "2026-08-30",
    "announce": "2026-09-11",
    "how": "팔로우 → 여행지 선택 → 선택 이유 댓글",
-   "big": true,
+   "big": false,
    "run": false,
    "easy": true,
    "url": "https://www.instagram.com/p/Dbr6kASEs5C/"
@@ -898,7 +898,7 @@
    "end": "2026-08-20",
    "announce": "2026-08-21",
    "how": "팔로우 → 좋아요 → 여행 필수템 꿀팁 댓글",
-   "big": true,
+   "big": false,
    "run": false,
    "easy": true,
    "url": "https://www.instagram.com/p/Db-F3y3D6hR/"
@@ -1238,7 +1238,7 @@
    "end": "2026-08-20",
    "announce": "2026-08-24",
    "how": "KT 팔로우 → 좋아요 → 캐리어에 챙길 여행 필수템 댓글",
-   "big": true,
+   "big": false,
    "run": false,
    "easy": true,
    "url": "https://www.instagram.com/reel/Db-MAJuisa9/"
@@ -1867,7 +1867,7 @@
    "end": "2026-08-18",
    "announce": "2026-08-24",
    "how": "팔로우 → 콘텐츠 아이디어 댓글",
-   "big": true,
+   "big": false,
    "run": false,
    "easy": true,
    "url": "https://www.instagram.com/p/DcAnqaHD5K4/"
@@ -2309,7 +2309,7 @@
    "end": "2026-08-17",
    "announce": "2026-08-18",
    "how": "포스터 번호 댓글 → 팔로우",
-   "big": true,
+   "big": false,
    "run": false,
    "easy": true,
    "url": "https://www.instagram.com/p/DcAmfiOkqyW/"
@@ -2581,7 +2581,7 @@
    "end": "2026-08-20",
    "announce": "2026-08-21",
    "how": "강점번호와 이유 댓글",
-   "big": true,
+   "big": false,
    "run": false,
    "easy": true,
    "url": "https://www.instagram.com/p/DcAmXRpEan2/"
@@ -2870,7 +2870,7 @@
    "end": "2026-08-19",
    "announce": "2026-08-21",
    "how": "팔로우 → 친구 태그",
-   "big": true,
+   "big": false,
    "run": false,
    "easy": true,
    "url": "https://www.instagram.com/p/Db7kIfIgejc/"
@@ -3193,7 +3193,7 @@
    "end": "2026-08-25",
    "announce": "2026-08-30",
    "how": "정답 제출 → 완료 댓글",
-   "big": true,
+   "big": false,
    "run": false,
    "easy": false,
    "url": "https://www.instagram.com/p/Db1tQQJk0lo/"
@@ -4094,7 +4094,7 @@
    "end": "2026-08-17",
    "announce": "2026-08-21",
    "how": "팔로우 → UP 댓글 → 좋아요",
-   "big": true,
+   "big": false,
    "run": false,
    "easy": true,
    "url": "https://www.instagram.com/p/Db9dE8HjRWW/"
@@ -4451,7 +4451,7 @@
    "end": "2026-08-23",
    "announce": "2026-08-28",
    "how": "팔로우 → 테스트결과댓글",
-   "big": true,
+   "big": false,
    "run": false,
    "easy": true,
    "url": "https://www.instagram.com/p/Db1-7XrGj0Y/"
@@ -4774,7 +4774,7 @@
    "end": "2026-08-21",
    "announce": "2026-08-18",
    "how": "팔로우 → 캠핑서 하고 싶은 일 댓글",
-   "big": true,
+   "big": false,
    "run": false,
    "easy": true,
    "url": "https://www.instagram.com/p/Db7BgBCS9ZJ/"
@@ -5233,7 +5233,7 @@
    "end": "2026-08-18",
    "announce": "2026-08-21",
    "how": "성인 구몬학습 팔로우 → 카페 메뉴 A B 선택과 이유 댓글",
-   "big": true,
+   "big": false,
    "run": false,
    "easy": true,
    "url": "https://www.instagram.com/p/Db7oWXklZIP/"
@@ -5318,7 +5318,7 @@
    "end": "2026-08-17",
    "announce": "2026-08-18",
    "how": "청도여행 4행시 댓글 → 네이버폼 제출",
-   "big": true,
+   "big": false,
    "run": false,
    "easy": false,
    "url": "https://www.instagram.com/p/Db65YB4iW2T/"
@@ -5692,7 +5692,7 @@
    "end": "2026-08-23",
    "announce": "2026-08-28",
    "how": "여행 유형 테스트 참여 → 결과 확인 → 응모정보 제출",
-   "big": true,
+   "big": false,
    "run": false,
    "easy": false,
    "url": "https://www.instagram.com/p/Db5JSFqF7I6/"
@@ -5845,7 +5845,7 @@
    "end": "2026-08-18",
    "announce": "2026-08-21",
    "how": "하트 이모지 댓글",
-   "big": true,
+   "big": false,
    "run": false,
    "easy": true,
    "url": "https://www.instagram.com/p/DbkaJjaIPq0/"
@@ -6015,7 +6015,7 @@
    "end": "2026-08-17",
    "announce": "2026-08-18",
    "how": "여행지 선택 댓글",
-   "big": true,
+   "big": false,
    "run": false,
    "easy": true,
    "url": "https://www.instagram.com/p/Db2S-Jwk45K/"
@@ -6916,7 +6916,7 @@
    "end": "2026-08-18",
    "announce": "2026-08-21",
    "how": "아세안글읽기 → 설문참여",
-   "big": true,
+   "big": false,
    "run": false,
    "easy": true,
    "url": ""
@@ -7137,7 +7137,7 @@
    "end": "2026-08-23",
    "announce": "2026-08-27",
    "how": "여행지 댓글 → 인증사진 네이버폼 제출",
-   "big": true,
+   "big": false,
    "run": false,
    "easy": false,
    "url": "https://www.instagram.com/p/DbuLxdmlAxq/"
@@ -7154,7 +7154,7 @@
    "end": "2026-08-31",
    "announce": "2026-09-03",
    "how": "팔로우 → 여행지 추천 댓글 → 친구 태그",
-   "big": true,
+   "big": false,
    "run": false,
    "easy": true,
    "url": "https://www.instagram.com/p/Dbuc1OQIB3i/"
@@ -7307,7 +7307,7 @@
    "end": "2026-08-21",
    "announce": "2026-09-04",
    "how": "정답댓글",
-   "big": true,
+   "big": false,
    "run": false,
    "easy": true,
    "url": "https://www.instagram.com/p/DbpoCUozHsl/"
@@ -7596,7 +7596,7 @@
    "end": "2026-08-31",
    "announce": "2026-09-07",
    "how": "영수증 인증 → 폼 제출 → 참여완료 댓글",
-   "big": true,
+   "big": false,
    "run": false,
    "easy": false,
    "url": "https://www.instagram.com/p/DbrvzmcEYFj/"
@@ -7613,7 +7613,7 @@
    "end": "2026-08-17",
    "announce": "2026-08-21",
    "how": "여행 플리 댓글 → 네이버폼 제출",
-   "big": true,
+   "big": false,
    "run": false,
    "easy": false,
    "url": "https://www.instagram.com/p/DbuKHIsk9Q2/"
@@ -8344,7 +8344,7 @@
    "end": "2026-08-19",
    "announce": "2026-08-28",
    "how": "친구 태그 → 여행스타일 댓글",
-   "big": true,
+   "big": false,
    "run": false,
    "easy": true,
    "url": "https://www.instagram.com/p/DbsNVjSStMk/"
@@ -9296,7 +9296,7 @@
    "end": "2026-08-31",
    "announce": "2026-09-03",
    "how": "응원댓글 → 정답 팔로우인증폼",
-   "big": true,
+   "big": false,
    "run": false,
    "easy": false,
    "url": "https://www.instagram.com/p/DbpznpkIOem/"
@@ -9568,7 +9568,7 @@
    "end": "2026-08-21",
    "announce": "2026-08-25",
    "how": "여행 서비스 댓글",
-   "big": true,
+   "big": false,
    "run": false,
    "easy": true,
    "url": "https://www.instagram.com/p/DbkLB8uEVCx/"
@@ -9602,7 +9602,7 @@
    "end": "2026-08-17",
    "announce": "2026-08-21",
    "how": "여행지 댓글",
-   "big": true,
+   "big": false,
    "run": false,
    "easy": true,
    "url": "https://www.instagram.com/p/DbmrU31SDa5/"
@@ -10724,7 +10724,7 @@
    "end": "2026-08-17",
    "announce": "2026-08-21",
    "how": "여행지 투표",
-   "big": true,
+   "big": false,
    "run": false,
    "easy": true,
    "url": "https://www.instagram.com/p/DbenBGPiTSg/"
@@ -10809,7 +10809,7 @@
    "end": "2026-08-23",
    "announce": "2026-08-31",
    "how": "설문 참여 → 폼 제출",
-   "big": true,
+   "big": false,
    "run": false,
    "easy": false,
    "url": "https://www.instagram.com/p/DbcAw6Sjx-R/"
@@ -12679,7 +12679,7 @@
    "end": "2026-08-17",
    "announce": "2026-08-15",
    "how": "기대평 댓글",
-   "big": true,
+   "big": false,
    "run": false,
    "easy": true,
    "url": "https://www.instagram.com/p/Dauj4Jaj9rw/"
@@ -12730,7 +12730,7 @@
    "end": "2026-08-23",
    "announce": "2026-08-25",
    "how": "여행지 댓글 작성",
-   "big": true,
+   "big": false,
    "run": false,
    "easy": true,
    "url": "https://www.instagram.com/p/Dao25TUjLvU/"
@@ -12815,7 +12815,7 @@
    "end": "2026-09-05",
    "announce": "2026-09-10",
    "how": "장소 방문→ → 사진 후기→ → 이메일 제출",
-   "big": true,
+   "big": false,
    "run": false,
    "easy": false,
    "url": "https://www.instagram.com/p/DaPP9p5D-yq/"
