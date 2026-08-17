@@ -268,6 +268,8 @@ header{border-bottom:2px solid var(--accent);padding-bottom:16px}
 h1{font-size:30px;margin:0;letter-spacing:-.03em;color:var(--accent)}
 .sub{font-size:13px;color:var(--mut)}
 .upd{font-size:12px;color:var(--mut);margin-top:6px}
+#stale{margin-top:16px;padding:11px 14px;border-radius:10px;font-size:13.5px;
+ background:#fdf1ea;border:1px solid #f0cdbb;color:#8a3d26}
 .stats{display:flex;gap:8px;flex-wrap:wrap;margin:18px 0 4px}
 .stat{background:var(--card);border:1px solid var(--line);border-radius:10px;padding:9px 14px;min-width:88px}
 .stat b{display:block;font-size:19px;letter-spacing:-.02em;color:var(--accent)}
@@ -323,6 +325,7 @@ footer{margin-top:40px;padding-top:16px;border-top:1px solid var(--line);
   <div class="brand"><svg class="logo" viewBox="0 0 100 100" width="42" height="42" aria-hidden="true"><path d="M50 62 C 53 73, 58 81, 68 87" fill="none" stroke="#15613c" stroke-width="5.5" stroke-linecap="round"/><g transform="translate(50 49)" fill="#2e9c64"><path transform="rotate(45)" d="M0 0 C-9.9 -8 -16 -16.7 -16 -25.8 C-16 -35.3 -8.8 -38.8 -3.8 -34.2 C-1.8 -32.3 -0.8 -32 0 -32 C0.8 -32 1.8 -32.3 3.8 -34.2 C8.8 -38.8 16 -35.3 16 -25.8 C16 -16.7 9.9 -8 0 0 Z"/><path transform="rotate(135)" d="M0 0 C-9.9 -8 -16 -16.7 -16 -25.8 C-16 -35.3 -8.8 -38.8 -3.8 -34.2 C-1.8 -32.3 -0.8 -32 0 -32 C0.8 -32 1.8 -32.3 3.8 -34.2 C8.8 -38.8 16 -35.3 16 -25.8 C16 -16.7 9.9 -8 0 0 Z"/><path transform="rotate(225)" d="M0 0 C-9.9 -8 -16 -16.7 -16 -25.8 C-16 -35.3 -8.8 -38.8 -3.8 -34.2 C-1.8 -32.3 -0.8 -32 0 -32 C0.8 -32 1.8 -32.3 3.8 -34.2 C8.8 -38.8 16 -35.3 16 -25.8 C16 -16.7 9.9 -8 0 0 Z"/><path transform="rotate(315)" d="M0 0 C-9.9 -8 -16 -16.7 -16 -25.8 C-16 -35.3 -8.8 -38.8 -3.8 -34.2 C-1.8 -32.3 -0.8 -32 0 -32 C0.8 -32 1.8 -32.3 3.8 -34.2 C8.8 -38.8 16 -35.3 16 -25.8 C16 -16.7 9.9 -8 0 0 Z"/></g></svg><h1>빈또당</h1><span class="sub">빈손으로 또 당첨 — 인스타 이벤트 응모 리스트</span></div>
   <div class="upd">마지막 갱신 __UPDATED__ · 매일 아침 자동 갱신</div>
 </header>
+<div id="stale" hidden></div>
 
 <div class="stats">
   <div class="stat"><b id="s-all">0</b><span>진행 중</span></div>
@@ -452,6 +455,19 @@ document.getElementById("hidedone").onclick = e => {
   e.target.textContent = state.hideDone ? "완료 표시하기" : "완료 숨기기";
   render();
 };
+// 자동 갱신이 멈췄을 때(수집원 차단·구조 변경 등) 오래된 정보임을 알린다
+(function () {
+  const now = new Date();
+  const days = Math.floor((new Date(now.getFullYear(), now.getMonth(), now.getDate()) - TODAY) / 86400000);
+  if (days >= 2) {
+    const el = document.getElementById("stale");
+    el.hidden = false;
+    el.innerHTML = "⚠️ 이 목록은 <b>" + days + "일 전</b> 기준입니다. 자동 갱신이 멈춘 상태일 수 있으니 "
+      + "마감일이 지난 이벤트가 섞여 있을 수 있어요. "
+      + '<a href="https://github.com/spaceHWI/binttodang/actions" target="_blank" rel="noopener">갱신 기록 확인</a>';
+  }
+})();
+
 render();
 </script>
 </body>
