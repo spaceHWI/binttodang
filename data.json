@@ -1,6 +1,6 @@
 {
- "updated": "2026-08-22",
- "count": 622,
+ "updated": "2026-08-23",
+ "count": 613,
  "events": [
   {
    "id": "312811",
@@ -4270,40 +4270,6 @@
    "url": "https://www.instagram.com/p/DcKTEqSE-_/"
   },
   {
-   "id": "312492",
-   "host": "링컨코리아",
-   "title": "활용댓글로 주유쿠폰 노리자",
-   "type": "댓글/단문",
-   "cat": "상품권",
-   "prize": "주유쿠폰 5만원권-10명",
-   "prizes": "",
-   "start": "2026-08-18",
-   "end": "2026-08-22",
-   "announce": "2026-08-26",
-   "how": "팔로우 → 원하는 활용 댓글 → 친구 태그",
-   "big": false,
-   "run": false,
-   "easy": true,
-   "url": "https://www.instagram.com/p/DcK63h_Bzn-/"
-  },
-  {
-   "id": "312491",
-   "host": "메가MGC커피",
-   "title": "비밀메시지 풀고 여름 신메뉴 음료 받자",
-   "type": "퀴즈/퍼즐",
-   "cat": "기프티콘",
-   "prize": "여름 신메뉴 음료 랜덤 1종 E쿠폰-20명",
-   "prizes": "",
-   "start": "2026-08-18",
-   "end": "2026-08-22",
-   "announce": "2026-08-31",
-   "how": "팔로우 좋아요 → 숫자순으로 문장 완성해 댓글 작성",
-   "big": false,
-   "run": false,
-   "easy": true,
-   "url": "https://www.instagram.com/p/DcKYfAkjHcR/"
-  },
-  {
    "id": "312469",
    "host": "평택시",
    "title": "신청사 이름 골라 커피 받자",
@@ -5613,23 +5579,6 @@
    "url": "https://www.instagram.com/p/DcC8gShyu2E/"
   },
   {
-   "id": "312334",
-   "host": "경주가구갤러리",
-   "title": "친구 태그하고 커피 케이크 노리자",
-   "type": "댓글/단문",
-   "cat": "기프티콘",
-   "prize": "스타벅스 커피 쿠폰-25명 외 총 27명",
-   "prizes": "스타벅스 커피 쿠폰-25명 파리바게뜨 케이크-2명",
-   "start": "2026-08-15",
-   "end": "2026-08-22",
-   "announce": "2026-08-23",
-   "how": "팔로우 → 좋아요 → 친구 태그 댓글",
-   "big": false,
-   "run": false,
-   "easy": true,
-   "url": "https://www.instagram.com/p/DcAy_CAPGBi/"
-  },
-  {
    "id": "312333",
    "host": "아크 레이더스",
    "title": "맵 댓글로 네이버페이 노리자",
@@ -6291,23 +6240,6 @@
    "run": false,
    "easy": true,
    "url": "https://www.instagram.com/p/Db-Ocx0mAEu/"
-  },
-  {
-   "id": "312126",
-   "host": "국토교통과학기술진흥원",
-   "title": "출근길 퀴즈 맞히고 수박화채 즐기자",
-   "type": "퀴즈/퍼즐",
-   "cat": "기프티콘",
-   "prize": "이디야 생수박 과일화채 L-50명",
-   "prizes": "",
-   "start": "2026-08-12",
-   "end": "2026-08-22",
-   "announce": "2026-08-25",
-   "how": "정답 댓글 → 캡처 → 네이버폼 제출",
-   "big": false,
-   "run": false,
-   "easy": false,
-   "url": "https://www.instagram.com/p/Db607MXjYZh/"
   },
   {
    "id": "312124",
@@ -8027,23 +7959,6 @@
    "url": "https://www.instagram.com/p/DbrvzmcEYFj/"
   },
   {
-   "id": "311770",
-   "host": "한국동서발전",
-   "title": "전기절약 네글자 다짐 남기고 올리브영상품권 챙기자",
-   "type": "댓글/단문",
-   "cat": "상품권",
-   "prize": "올리브영 모바일상품권 5천원-20명",
-   "prizes": "",
-   "start": "2026-08-07",
-   "end": "2026-08-22",
-   "announce": "2026-08-27",
-   "how": "채널 구독 → 네글자 다짐 댓글 → 인증샷 폼 제출",
-   "big": false,
-   "run": false,
-   "easy": false,
-   "url": "https://www.instagram.com/p/DbuHmI_lFEt/"
-  },
-  {
    "id": "311769",
    "host": "중소기업기술정보진흥원",
    "title": "틀린 티니 번호 맞히고 배라 아이스크림 받자",
@@ -8365,23 +8280,6 @@
    "run": false,
    "easy": false,
    "url": "https://www.instagram.com/p/DbrnGqaCXmH/"
-  },
-  {
-   "id": "311551",
-   "host": "서울뷰티위크",
-   "title": "연사질문 제출하고 올영상품권 받자",
-   "type": "댓글/단문",
-   "cat": "상품권",
-   "prize": "올리브영 모바일 상품권 1만원권-30명",
-   "prizes": "",
-   "start": "2026-08-06",
-   "end": "2026-08-22",
-   "announce": "2026-09-04",
-   "how": "구글폼 제출 → 완료 댓글",
-   "big": false,
-   "run": false,
-   "easy": false,
-   "url": "https://www.instagram.com/p/DbsUq06oNxD/"
   },
   {
    "id": "311543",
@@ -9164,23 +9062,6 @@
    "run": false,
    "easy": false,
    "url": "https://www.instagram.com/p/Dbj6Y9WOYhh/"
-  },
-  {
-   "id": "311228",
-   "host": "서울에너지드림센터",
-   "title": "자원순환 실천 인증하고 기프티콘 챙기자",
-   "type": "참여인증",
-   "cat": "상품권",
-   "prize": "기프티콘 1만원권-10명",
-   "prizes": "",
-   "start": "2026-08-04",
-   "end": "2026-08-22",
-   "announce": "2026-08-27",
-   "how": "자원순환 실천 → 사진 업로드 → 네이버폼 제출",
-   "big": false,
-   "run": false,
-   "easy": false,
-   "url": "https://www.instagram.com/p/DbepYK0GLjU/"
   },
   {
    "id": "311226",
@@ -9982,23 +9863,6 @@
    "url": "https://www.instagram.com/p/DbSO1RGmHh6/"
   },
   {
-   "id": "310646",
-   "host": "서울뷰티위크",
-   "title": "포럼 신청하고 아이스크림 기프티콘 받아가자",
-   "type": "댓글/단문",
-   "cat": "기프티콘",
-   "prize": "배스킨라빈스 싱글 레귤러 아이스크림-50명",
-   "prizes": "",
-   "start": "2026-07-27",
-   "end": "2026-08-22",
-   "announce": "2026-09-04",
-   "how": "포럼 신청 → 응원 댓글 → 구글폼 제출",
-   "big": false,
-   "run": false,
-   "easy": false,
-   "url": "https://www.instagram.com/p/DbRrkNggVUr/"
-  },
-  {
    "id": "310635",
    "host": "나무엑스",
    "title": "기능 댓글 남기고 네이버페이 받자",
@@ -10184,23 +10048,6 @@
    "run": false,
    "easy": false,
    "url": "https://www.instagram.com/p/DbF2OfzEcwA/"
-  },
-  {
-   "id": "310219",
-   "host": "울산광역시 중구",
-   "title": "울산큰애기 투표 인증하고 배민 받자",
-   "type": "설문/투표",
-   "cat": "상품권",
-   "prize": "배민 3만원 상품권-5명 외 총 50명",
-   "prizes": "배민 3만원 상품권-5명 울산큰애기 무드등-5명 배민 1만원 상품권-30명 울산큰애기 키링9경 손수건-10명",
-   "start": "2026-07-20",
-   "end": "2026-08-22",
-   "announce": "2026-08-28",
-   "how": "울산큰애기 투표 → 인증사진 제출 → 네이버폼 제출",
-   "big": false,
-   "run": false,
-   "easy": false,
-   "url": "https://www.instagram.com/p/DbAlgI1GGPx/"
   },
   {
    "id": "310214",
