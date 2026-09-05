@@ -1,6 +1,6 @@
 {
- "updated": "2026-09-05",
- "count": 422,
+ "updated": "2026-09-06",
+ "count": 405,
  "events": [
   {
    "id": "313855",
@@ -870,40 +870,6 @@
    "url": "https://www.instagram.com/p/DchsRUMkh5v/"
   },
   {
-   "id": "313795",
-   "host": "엑셀비프",
-   "title": "먹고 싶은 메뉴 댓글로 5만원 식사권 받자",
-   "type": "댓글/단문",
-   "cat": "상품권",
-   "prize": "본수원 5만원 식사권-40명",
-   "prizes": "",
-   "start": "2026-08-29",
-   "end": "2026-09-05",
-   "announce": "2026-09-07",
-   "how": "팔로우 → 먹고 싶은 메뉴 댓글 → 게시물 3개 좋아요",
-   "big": false,
-   "run": false,
-   "easy": true,
-   "url": "https://www.instagram.com/p/DcmtORej35F/"
-  },
-  {
-   "id": "313794",
-   "host": "오드로이",
-   "title": "기대제품 이유 댓글로 오드로이 꿀템 노리자",
-   "type": "댓글/단문",
-   "cat": "화장품",
-   "prize": "오드로이 꿀템-100명",
-   "prizes": "",
-   "start": "2026-08-28",
-   "end": "2026-09-05",
-   "announce": "2026-09-10",
-   "how": "정보 입력 → 좋아요 팔로우 → 기대제품 이유 댓글",
-   "big": false,
-   "run": false,
-   "easy": true,
-   "url": "https://www.instagram.com/p/DclE78mS0Kq/"
-  },
-  {
    "id": "313792",
    "host": "한화생명",
    "title": "SNS 대상 투표하고 볼파크 스카이박스 가자",
@@ -1771,23 +1737,6 @@
    "url": "https://www.instagram.com/p/DckG-gmkwgx/"
   },
   {
-   "id": "313733",
-   "host": "프루타",
-   "title": "사과정보 저장하고 배민 2천원 상품권 챙기자",
-   "type": "댓글/단문",
-   "cat": "상품권",
-   "prize": "배달의민족 2천원 상품권-50명",
-   "prizes": "",
-   "start": "2026-08-29",
-   "end": "2026-09-05",
-   "announce": "2026-09-07",
-   "how": "사과 고르는 방법 게시물 저장 → 사과고르는기준 댓글",
-   "big": false,
-   "run": false,
-   "easy": true,
-   "url": "https://www.instagram.com/p/Dcl0MdQCZGv/"
-  },
-  {
    "id": "313732",
    "host": "바른생각",
    "title": "필요한 해장 댓글 남기고 배민 2만원권 노리자",
@@ -1837,23 +1786,6 @@
    "run": false,
    "easy": false,
    "url": "https://www.instagram.com/p/Dchufi3mgCv/"
-  },
-  {
-   "id": "313728",
-   "host": "티핏",
-   "title": "추천댓글 쓰고 티핏 선물박스 노리자",
-   "type": "댓글/단문",
-   "cat": "화장품",
-   "prize": "MINA 친필 사인 폴라로이드 ..-1명 외 총 21명",
-   "prizes": "MINA 친필 사인 폴라로이드 1종 + TFIT 베스트 제품 선물 박스-1명 TFIT 베스트 제품 1종-20명",
-   "start": "2026-08-30",
-   "end": "2026-09-05",
-   "announce": "2026-09-07",
-   "how": "팔로우 → 좋아요 친구태그 → 제품이유 댓글",
-   "big": false,
-   "run": false,
-   "easy": true,
-   "url": "https://www.instagram.com/p/DcpSEDRElZ8/"
   },
   {
    "id": "313727",
@@ -1907,23 +1839,6 @@
    "url": "https://www.instagram.com/p/DcqLLObRjn_/"
   },
   {
-   "id": "313723",
-   "host": "SoapyETN",
-   "title": "친구 태그하고 아이폰6s 실버 득템하자",
-   "type": "댓글/단문",
-   "cat": "가전제품",
-   "prize": "아이폰 6s 실버 64GB-1명",
-   "prizes": "",
-   "start": "2026-08-30",
-   "end": "2026-09-05",
-   "announce": "2026-09-06",
-   "how": "팔로우 → 친구 태그 → 좋아요 후 스토리 공유",
-   "big": true,
-   "run": false,
-   "easy": false,
-   "url": "https://www.instagram.com/p/Dcpyz_HAx64/"
-  },
-  {
    "id": "313722",
    "host": "대학홍삼",
    "title": "대학홍삼 제품 퀴즈 풀고 스타벅스 챙기자",
@@ -1939,23 +1854,6 @@
    "run": false,
    "easy": false,
    "url": "https://www.instagram.com/p/Dcr6WZFoFL8/"
-  },
-  {
-   "id": "313721",
-   "host": "중구여성플라자",
-   "title": "양성평등 실천 다짐 남기고 투썸커피 받자",
-   "type": "댓글/단문",
-   "cat": "기프티콘",
-   "prize": "투썸플레이스 기프티콘-50명",
-   "prizes": "",
-   "start": "2026-08-31",
-   "end": "2026-09-05",
-   "announce": "2026-09-16",
-   "how": "팔로우 → 좋아요 → 양성평등 실천 다짐 댓글",
-   "big": false,
-   "run": false,
-   "easy": true,
-   "url": "https://www.instagram.com/p/DcrzIe4j-ae/"
   },
   {
    "id": "313720",
@@ -2092,23 +1990,6 @@
    "run": false,
    "easy": true,
    "url": "https://www.instagram.com/p/Dcr86y3krpq/"
-  },
-  {
-   "id": "313711",
-   "host": "차앤맘",
-   "title": "올영세일 댓글 남기고 피토세린 로션 받자",
-   "type": "댓글/단문",
-   "cat": "화장품",
-   "prize": "피토세린 모이스처 로션-10명",
-   "prizes": "",
-   "start": "2026-08-28",
-   "end": "2026-09-05",
-   "announce": "2026-09-11",
-   "how": "차앤맘 팔로우 → 차앤맘올영세일 댓글작성",
-   "big": false,
-   "run": false,
-   "easy": true,
-   "url": "https://www.instagram.com/p/DciM8dxR1cQ/"
   },
   {
    "id": "313709",
@@ -2485,23 +2366,6 @@
    "url": "https://www.instagram.com/p/DcuiwgRH991/"
   },
   {
-   "id": "313683",
-   "host": "CJ더마켓",
-   "title": "초성퀴즈 맞히고 기프트카드 5천원 받자",
-   "type": "퀴즈/퍼즐",
-   "cat": "상품권",
-   "prize": "CJ더마켓 기프트카드 5천원권-10명",
-   "prizes": "",
-   "start": "2026-08-29",
-   "end": "2026-09-05",
-   "announce": "2026-09-07",
-   "how": "팔로우 → 게시물 스토리 리그램 → 초성 정답 댓글",
-   "big": false,
-   "run": false,
-   "easy": false,
-   "url": "https://www.instagram.com/p/Dcm7-fLmaNd/"
-  },
-  {
    "id": "313682",
    "host": "충남관광",
    "title": "사해 문장 댓글로 배민 1만원권 받자",
@@ -2534,23 +2398,6 @@
    "run": false,
    "easy": false,
    "url": "https://www.instagram.com/p/DcsPniLI3QJ/"
-  },
-  {
-   "id": "313680",
-   "host": "울산지속가능발전협의회",
-   "title": "친환경습관 댓글로 투썸커피 받자",
-   "type": "댓글/단문",
-   "cat": "기프티콘",
-   "prize": "투썸플레이스 아메리카노 L-50명",
-   "prizes": "",
-   "start": "2026-09-01",
-   "end": "2026-09-05",
-   "announce": "2026-09-09",
-   "how": "팔로우 좋아요 → 친환경댓글 → 폼제출",
-   "big": false,
-   "run": false,
-   "easy": false,
-   "url": "https://www.instagram.com/p/DcuboDEjcVY/"
   },
   {
    "id": "313677",
@@ -2704,23 +2551,6 @@
    "run": false,
    "easy": true,
    "url": "https://www.instagram.com/p/Dch_Hz3AZWU/"
-  },
-  {
-   "id": "313666",
-   "host": "서울상상나라",
-   "title": "여름 겨울 육아 밸런스게임 참여하고 메가커피 챙기자",
-   "type": "댓글/단문",
-   "cat": "기프티콘",
-   "prize": "메가커피 ICE 아메리카노-70명",
-   "prizes": "",
-   "start": "2026-08-25",
-   "end": "2026-09-05",
-   "announce": "2026-09-09",
-   "how": "팔로우 → 좋아요 → 밸런스게임 댓글 → 폼 제출",
-   "big": false,
-   "run": false,
-   "easy": false,
-   "url": "https://www.instagram.com/reel/DcdDV_vj7o3/"
   },
   {
    "id": "313665",
@@ -3163,23 +2993,6 @@
    "run": false,
    "easy": false,
    "url": "https://www.instagram.com/p/DcsVy41Cdub/"
-  },
-  {
-   "id": "313635",
-   "host": "무신사",
-   "title": "희망 팬츠 댓글 남기고 커브드 데님 챙기자",
-   "type": "댓글/단문",
-   "cat": "패션잡화",
-   "prize": "커브드 데님 팬츠-00명 외 총 10명",
-   "prizes": "커브드 데님 팬츠-00명 우먼즈 에센셜 커브드 데님 팬츠-00명",
-   "start": "2026-08-29",
-   "end": "2026-09-05",
-   "announce": "2026-09-11",
-   "how": "무신사 팔로우 → 친구 태그 → 희망 팬츠 댓글",
-   "big": false,
-   "run": false,
-   "easy": true,
-   "url": "https://www.instagram.com/p/DcnkPBeIE1V/"
   },
   {
    "id": "313633",
@@ -4474,23 +4287,6 @@
    "url": "https://www.instagram.com/p/DciLanvTz4v/"
   },
   {
-   "id": "313362",
-   "host": "화성도시공사",
-   "title": "동탄 명소 초성퀴즈 풀고 메가커피 챙기자",
-   "type": "퀴즈/퍼즐",
-   "cat": "상품권",
-   "prize": "메가커피 모바일금액권 5천원권-50명",
-   "prizes": "",
-   "start": "2026-08-27",
-   "end": "2026-09-05",
-   "announce": "2026-09-08",
-   "how": "SNS 팔로우 구독 → 초성퀴즈 풀기 → 인증샷 네이버폼 제출",
-   "big": false,
-   "run": false,
-   "easy": false,
-   "url": "https://www.instagram.com/p/Dchjr3MgfqT/"
-  },
-  {
    "id": "313360",
    "host": "폴리어학원",
    "title": "Poly 골든벨 풀고 스타벅스 1만원 받자",
@@ -4863,23 +4659,6 @@
    "run": false,
    "easy": false,
    "url": "https://www.instagram.com/p/Dchcz4ggdar/"
-  },
-  {
-   "id": "313282",
-   "host": "렛츠런파크",
-   "title": "코리아컵 계획 남기고 아웃백 받자",
-   "type": "댓글/단문",
-   "cat": "상품권",
-   "prize": "아웃백 상품권 10만원권-15명 외 총 125명",
-   "prizes": "아웃백 상품권 10만원권-15명 BHC 뿌링클 세트 상품권 3만원권-25명 커피숍 기프티콘 1만5천원권-35명 CU 편의점 상품권 1만원권-50명",
-   "start": "2026-08-20",
-   "end": "2026-09-05",
-   "announce": "2026-09-16",
-   "how": "팔로우 → 친구태그 → WHAT WHO MOMENT 골라 댓글작성",
-   "big": true,
-   "run": false,
-   "easy": true,
-   "url": "https://www.instagram.com/p/DcQLJr4yPkE/"
   },
   {
    "id": "313281",
@@ -5611,23 +5390,6 @@
    "run": false,
    "easy": false,
    "url": "https://www.instagram.com/p/DcaN9QXEvA7/"
-  },
-  {
-   "id": "313145",
-   "host": "한국관광공사 대전충남지사",
-   "title": "여행유형 테스트 인증하고 치킨세트 노리자",
-   "type": "참여인증",
-   "cat": "상품권",
-   "prize": "교촌치킨 레드+간장 한마..-5명 외 총 55명",
-   "prizes": "교촌치킨 레드+간장 한마리 세트-5명 투썸플레이스 아메리카노-50명",
-   "start": "2026-08-24",
-   "end": "2026-09-05",
-   "announce": "2026-09-15",
-   "how": "여행유형 테스트 → 결과캡처 → 계정태그 피드게시 → 정보제출",
-   "big": false,
-   "run": false,
-   "easy": false,
-   "url": "https://www.instagram.com/p/DcZwT3rE6op/"
   },
   {
    "id": "313142",
@@ -6395,23 +6157,6 @@
    "url": "https://www.instagram.com/p/DcPqO-MG7u1/"
   },
   {
-   "id": "312679",
-   "host": "울산광역시",
-   "title": "스마트도시 시민 설문하고 커피쿠폰 받자",
-   "type": "설문/투표",
-   "cat": "기프티콘",
-   "prize": "모바일 커피쿠폰-200명",
-   "prizes": "",
-   "start": "2026-08-18",
-   "end": "2026-09-05",
-   "announce": "2026-09-21",
-   "how": "설문폼 접속 → 스마트도시 시민 설문 작성 제출",
-   "big": false,
-   "run": false,
-   "easy": false,
-   "url": "https://www.instagram.com/ulsancity/p/DcKKURWktHL/"
-  },
-  {
    "id": "312673",
    "host": "행정안전부",
    "title": "청정하계 소문내고 음료권 챙기자",
@@ -6529,23 +6274,6 @@
    "run": false,
    "easy": false,
    "url": "https://www.instagram.com/p/DcNip4Hmnxh/"
-  },
-  {
-   "id": "312617",
-   "host": "궁디팡팡 캣페스타",
-   "title": "리그램하고 캣폴 노리자",
-   "type": "소문내기",
-   "cat": "생활용품",
-   "prize": "내핑하우스 캣폴 풀세트-1명 외 총 30명",
-   "prizes": "내핑하우스 캣폴 풀세트-1명 모든펫 미니멀 세트 1번-1명 매직캔 히포+리필 5롤+모래 스쿱 세트-1명 마스코티안 샌드케어 고양이 모래 탈취제 2개-7명 페피테일 참 포스트 플러스 전갱이-5명 닥터클라우더 그레인프리 본품 400g-15명",
-   "start": "2026-08-11",
-   "end": "2026-09-05",
-   "announce": "2026-09-11",
-   "how": "팔로우 → 피드 리그램 → 완료 댓글",
-   "big": false,
-   "run": false,
-   "easy": false,
-   "url": "https://www.instagram.com/p/Db5G_euieOO/"
   },
   {
    "id": "312612",
@@ -7107,23 +6835,6 @@
    "run": false,
    "easy": false,
    "url": "https://www.instagram.com/p/DaO3Q3nE5Tv/"
-  },
-  {
-   "id": "308754",
-   "host": "제주시",
-   "title": "제주 여행 인증샷 보내고 2만원 받기",
-   "type": "사진응모",
-   "cat": "기프티콘",
-   "prize": "2만원 상당 기프티콘-25명",
-   "prizes": "",
-   "start": "2026-07-01",
-   "end": "2026-09-05",
-   "announce": "2026-09-10",
-   "how": "장소 방문→ → 사진 후기→ → 이메일 제출",
-   "big": false,
-   "run": false,
-   "easy": false,
-   "url": "https://www.instagram.com/p/DaPP9p5D-yq/"
   },
   {
    "id": "307879",
