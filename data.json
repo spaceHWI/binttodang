@@ -1,6 +1,6 @@
 {
- "updated": "2026-09-12",
- "count": 458,
+ "updated": "2026-09-13",
+ "count": 448,
  "events": [
   {
    "id": "314380",
@@ -1618,40 +1618,6 @@
    "url": "https://www.instagram.com/p/Dc-egQxE4Yt/"
   },
   {
-   "id": "314267",
-   "host": "한국농수산식품유통공사",
-   "title": "윤리경영 설문 참여하고 아메리카노 받자",
-   "type": "설문/투표",
-   "cat": "기프티콘",
-   "prize": "아메리카노 한잔 쿠폰-30명",
-   "prizes": "",
-   "start": "2026-09-10",
-   "end": "2026-09-12",
-   "announce": "2026-09-17",
-   "how": "네이버폼 접속 → 윤리경영 설문 작성 후 제출",
-   "big": false,
-   "run": false,
-   "easy": false,
-   "url": "https://www.instagram.com/p/DdFf7qSCebM/"
-  },
-  {
-   "id": "314266",
-   "host": "KT",
-   "title": "사전알림 신청하고 더블 아아 세트 받자",
-   "type": "댓글/단문",
-   "cat": "기프티콘",
-   "prize": "메가MGC커피 더블 아아 세트 기프티쇼-200명",
-   "prizes": "",
-   "start": "2026-09-10",
-   "end": "2026-09-12",
-   "announce": "2026-09-28",
-   "how": "사전알림 신청 → 댓글로 친구 태그",
-   "big": false,
-   "run": false,
-   "easy": true,
-   "url": "https://www.instagram.com/p/DdFvPvKx1dL/"
-  },
-  {
    "id": "314264",
    "host": "농심",
    "title": "초성 인증샷과 친구 소환해 맥북 노리자",
@@ -3010,23 +2976,6 @@
    "run": false,
    "easy": true,
    "url": "https://www.instagram.com/reel/DdDFj3IEz37/"
-  },
-  {
-   "id": "314150",
-   "host": "개인정보보호위원회",
-   "title": "스미싱 예방법 남기고 투썸 커피 챙기자",
-   "type": "댓글/단문",
-   "cat": "기프티콘",
-   "prize": "투썸플레이스 아메리카노-10명",
-   "prizes": "",
-   "start": "2026-09-09",
-   "end": "2026-09-12",
-   "announce": "2026-09-17",
-   "how": "개인정보보호위원회 팔로우 → 좋아요 → 스미싱 예방법 댓글",
-   "big": false,
-   "run": false,
-   "easy": true,
-   "url": "https://www.instagram.com/p/DdDEE3tGdpD/"
   },
   {
    "id": "314149",
@@ -5256,23 +5205,6 @@
    "url": "https://www.instagram.com/p/Dc3Js2fmqqT/"
   },
   {
-   "id": "313871",
-   "host": "와이코리아",
-   "title": "와이코리아 설문조사 참여하고 메가커피 받자",
-   "type": "댓글/단문",
-   "cat": "기프티콘",
-   "prize": "메가커피 아메리카노-50명",
-   "prizes": "",
-   "start": "2026-08-27",
-   "end": "2026-09-12",
-   "announce": "2026-09-17",
-   "how": "설문조사 참여 → 폼제출",
-   "big": false,
-   "run": false,
-   "easy": false,
-   "url": "https://www.instagram.com/p/Dc3Fbv8TrjD/"
-  },
-  {
    "id": "313870",
    "host": "국가유산책갈피",
    "title": "서비스 만족도 조사 참여하고 문화상품권 받자",
@@ -5356,23 +5288,6 @@
    "run": false,
    "easy": false,
    "url": "https://www.instagram.com/p/Dcuad3nk650/"
-  },
-  {
-   "id": "313841",
-   "host": "상상황리단길",
-   "title": "빈칸 채우고 문화상품권 받자",
-   "type": "퀴즈/퍼즐",
-   "cat": "상품권",
-   "prize": "문화상품권 5천원권-100명",
-   "prizes": "",
-   "start": "2026-09-03",
-   "end": "2026-09-12",
-   "announce": "2026-09-15",
-   "how": "홈페이지에 응모 게시판 접속 → 퀴즈 정답 제출",
-   "big": false,
-   "run": false,
-   "easy": false,
-   "url": "https://www.instagram.com/p/DczivcekoYx/"
   },
   {
    "id": "313840",
@@ -6565,23 +6480,6 @@
    "url": "https://www.instagram.com/p/DclGnVIgpOG/"
   },
   {
-   "id": "313610",
-   "host": "광명시",
-   "title": "SNS 팔로우하고 아이스크림 기프티콘 노리자",
-   "type": "댓글/단문",
-   "cat": "기프티콘",
-   "prize": "아이스크림 기프티콘-100명",
-   "prizes": "",
-   "start": "2026-09-01",
-   "end": "2026-09-12",
-   "announce": "2026-09-17",
-   "how": "SNS팔로우 → 소원댓글 → 인증샷 폼제출",
-   "big": false,
-   "run": false,
-   "easy": false,
-   "url": "https://www.instagram.com/p/DcuVjQAEoJ0/"
-  },
-  {
    "id": "313607",
    "host": "성평등가족부",
    "title": "새일센터 새이름 제안하고 25만원 받자",
@@ -6614,23 +6512,6 @@
    "run": false,
    "easy": false,
    "url": "https://www.instagram.com/p/DcsSWAGAQGp/"
-  },
-  {
-   "id": "313590",
-   "host": "서울특별시 동대문구",
-   "title": "동대문구 투표하고 신세계 상품권 받자",
-   "type": "설문/투표",
-   "cat": "상품권",
-   "prize": "신세계 상품권 30만원-1명 외 총 111명",
-   "prizes": "신세계 상품권 30만원-1명 치킨 상품권-10명 메가커피 아메리카노-100명",
-   "start": "2026-08-31",
-   "end": "2026-09-12",
-   "announce": "2026-09-16",
-   "how": "투표댓글 → 인증샷 → 폼제출",
-   "big": true,
-   "run": false,
-   "easy": false,
-   "url": "https://www.instagram.com/reels/DcqyJnDhfWV/"
   },
   {
    "id": "313507",
@@ -7092,23 +6973,6 @@
    "url": "https://www.instagram.com/p/DcalYGioGON/"
   },
   {
-   "id": "313111",
-   "host": "강원관광재단",
-   "title": "DMZ 응원댓글 남기고 네이버페이 받자",
-   "type": "댓글/단문",
-   "cat": "상품권",
-   "prize": "네이버페이 포인트 쿠폰 1만원권-20명",
-   "prizes": "",
-   "start": "2026-08-20",
-   "end": "2026-09-12",
-   "announce": "2026-09-16",
-   "how": "팔로우 → 홈페이지 응원게시판 접속 → 응원댓글 작성",
-   "big": false,
-   "run": false,
-   "easy": true,
-   "url": "https://www.instagram.com/p/DcP9i8xEei-/"
-  },
-  {
    "id": "313108",
    "host": "스냅드래곤 인사이더즈 코리아",
    "title": "행사 기대평 스토리 공유하고 BHC 치킨 노리자",
@@ -7124,23 +6988,6 @@
    "run": false,
    "easy": false,
    "url": "https://www.instagram.com/p/DcdI32JkjIO/"
-  },
-  {
-   "id": "313102",
-   "host": "광산뮤직ON페스티벌",
-   "title": "같이 갈 친구 5명 태그하고 모바일쿠폰 받자",
-   "type": "소문내기",
-   "cat": "상품권",
-   "prize": "1만원 상당 모바일쿠폰-150명",
-   "prizes": "",
-   "start": "2026-08-24",
-   "end": "2026-09-12",
-   "announce": "2026-09-24",
-   "how": "계정 팔로우 → 친구 5명 댓글태그 → 캡쳐해 QR폼 제출",
-   "big": false,
-   "run": false,
-   "easy": false,
-   "url": "https://www.instagram.com/p/DcSVs76CTP1/"
   },
   {
    "id": "313052",
@@ -7345,23 +7192,6 @@
    "run": false,
    "easy": false,
    "url": "https://www.instagram.com/p/Db9iDbPD5Ne/"
-  },
-  {
-   "id": "312649",
-   "host": "안산도시공사",
-   "title": "탄도 여행 미션 인증하고 외식상품권 받자",
-   "type": "참여인증",
-   "cat": "상품권",
-   "prize": "커피쿠폰-100명 외 총 135명",
-   "prizes": "커피쿠폰-100명 네이버페이 1만원 쇼핑상품권-20명 배달의민족 3만원 외식상품권-15명",
-   "start": "2026-08-15",
-   "end": "2026-09-12",
-   "announce": "2026-09-18",
-   "how": "참여링크 접속 → 탄도 미션 수행 → 2개이상 참여 인증",
-   "big": false,
-   "run": false,
-   "easy": false,
-   "url": "https://www.instagram.com/p/Db96il3EwVJ/"
   },
   {
    "id": "312643",
