@@ -1,7 +1,24 @@
 {
- "updated": "2026-09-19",
- "count": 522,
+ "updated": "2026-09-20",
+ "count": 519,
  "events": [
+  {
+   "id": "315008",
+   "host": "KCC 창호",
+   "title": "정품마크 인증하고 네이버페이 챙기자",
+   "type": "참여인증",
+   "cat": "상품권",
+   "prize": "네이버페이 포인트 5천원.. 등 100% 당첨",
+   "prizes": "네이버페이 포인트 5천원권-전원 신세계상품권 10만원권-00명",
+   "start": "2026-09-19",
+   "end": "2026-12-31",
+   "announce": "2027-01-05",
+   "how": "정품마크 촬영 → 사진 업로드 → 후기 작성",
+   "big": true,
+   "run": false,
+   "easy": false,
+   "url": "https://www.instagram.com/p/DYlTVZEk1E_/"
+  },
   {
    "id": "315006",
    "host": "노스페이스에디션",
@@ -5613,23 +5630,6 @@
    "url": "https://www.instagram.com/p/DdI0zk9k6T7/"
   },
   {
-   "id": "314477",
-   "host": "한국지역난방공사",
-   "title": "유튜브 1만 구독 응원하고 버즈3 프로 받자",
-   "type": "댓글/단문",
-   "cat": "가전제품",
-   "prize": "버즈3 프로-1명 외 총 11명",
-   "prizes": "버즈3 프로-1명 배달의민족 3만원권-10명",
-   "start": "2026-09-11",
-   "end": "2026-09-19",
-   "announce": "2026-09-24",
-   "how": "유튜브 구독 → 1만 구독 응원댓글 → 인증샷 폼제출",
-   "big": true,
-   "run": false,
-   "easy": false,
-   "url": "https://www.instagram.com/p/DdI7uQ6Dd9X/"
-  },
-  {
    "id": "314366",
    "host": "한국민속촌",
    "title": "전통놀이 맞히고 네이버페이 3만원 받자",
@@ -5645,23 +5645,6 @@
    "run": false,
    "easy": true,
    "url": "https://www.instagram.com/p/Dc-GHa8k6rr/"
-  },
-  {
-   "id": "314363",
-   "host": "수원문화재단",
-   "title": "미디어아트 리그램해 상품권 받자",
-   "type": "소문내기",
-   "cat": "상품권",
-   "prize": "올리브영 1만원 상품권-10명",
-   "prizes": "",
-   "start": "2026-09-10",
-   "end": "2026-09-19",
-   "announce": "2026-09-24",
-   "how": "팔로우 → 좋아요 → 홍보물리그램 → 완료댓글",
-   "big": false,
-   "run": false,
-   "easy": false,
-   "url": "https://www.instagram.com/p/DdGLWaBEy8h/"
   },
   {
    "id": "314358",
@@ -5832,23 +5815,6 @@
    "run": false,
    "easy": true,
    "url": "https://www.instagram.com/p/DdGdsiDErWc/"
-  },
-  {
-   "id": "314333",
-   "host": "구구족",
-   "title": "창의 댓글 남기고 배민 3만원권 받자",
-   "type": "댓글/단문",
-   "cat": "상품권",
-   "prize": "배달의민족 3만원권-5명",
-   "prizes": "",
-   "start": "2026-09-09",
-   "end": "2026-09-19",
-   "announce": "2026-09-23",
-   "how": "팔로우 좋아요 → 사해댓글 → 공유UP",
-   "big": false,
-   "run": false,
-   "easy": true,
-   "url": "https://www.instagram.com/p/DdD7U9rDxhU/"
   },
   {
    "id": "314327",
@@ -6767,23 +6733,6 @@
    "run": false,
    "easy": false,
    "url": "https://www.instagram.com/p/DdBLpDZmj1n/"
-  },
-  {
-   "id": "314207",
-   "host": "장림골목시장",
-   "title": "장림시장 응원댓글로 상품권 노리자",
-   "type": "댓글/단문",
-   "cat": "상품권",
-   "prize": "디지털온누리상품권 5만원..-1명 외 총 24명",
-   "prizes": "디지털온누리상품권 5만원-1명 디지털온누리상품권 2만원-3명 스타벅스 아메리카노 기프티콘-20명",
-   "start": "2026-09-09",
-   "end": "2026-09-19",
-   "announce": "2026-09-19",
-   "how": "팔로우 → 챌린지 응원 댓글 → 친구 태그",
-   "big": false,
-   "run": false,
-   "easy": true,
-   "url": "https://www.instagram.com/p/Dc2-DOSCcr5/"
   },
   {
    "id": "314205",
