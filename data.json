@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-07",
- "count": 492,
+ "updated": "2026-11-08",
+ "count": 483,
  "events": [
   {
    "id": "319475",
@@ -1227,21 +1227,21 @@
    "url": "https://www.instagram.com/p/DfV2LRuvXXj/"
   },
   {
-   "id": "319363",
-   "host": "울산광역시 북구",
-   "title": "울산 북구 SNS 구독하고 치킨권 받자",
-   "type": "단순응모",
+   "id": "319476",
+   "host": "삼성물산 건설부문",
+   "title": "김장 꿀팁 댓글로 메가커피 받아가자",
+   "type": "댓글/단문",
    "cat": "기프티콘",
-   "prize": "치킨 교환권 3만원권-20명",
+   "prize": "메가커피 5천원권-10명",
    "prizes": "",
-   "start": "2026-11-07",
-   "end": "2026-11-07",
-   "announce": "2026-11-11",
-   "how": "광장방문 → SNS구독 → 응모권 받아 투입",
+   "start": "2026-11-02",
+   "end": "2026-11-08",
+   "announce": "2026-11-10",
+   "how": "팔로우 → 좋아요 → 김장비법 댓글",
    "big": false,
    "run": false,
-   "easy": false,
-   "url": "https://www.instagram.com/p/DfWe2qjBJee/"
+   "easy": true,
+   "url": "https://www.instagram.com/p/DfO1BMfgQJj/"
   },
   {
    "id": "319360",
@@ -3114,23 +3114,6 @@
    "url": "https://www.instagram.com/p/DfRBdNLJWnF/"
   },
   {
-   "id": "319181",
-   "host": "여수광양항만공사",
-   "title": "여수광양항 SNS 설문하고 커피 받자",
-   "type": "설문/투표",
-   "cat": "기프티콘",
-   "prize": "모바일 커피 기프티콘-50명",
-   "prizes": "",
-   "start": "2026-11-02",
-   "end": "2026-11-07",
-   "announce": "2026-11-12",
-   "how": "SNS 구독 → 설문 참여 → 구독 인증샷 제출",
-   "big": false,
-   "run": false,
-   "easy": false,
-   "url": "https://www.instagram.com/p/DfO80kZAvXw/"
-  },
-  {
    "id": "319142",
    "host": "공공누리",
    "title": "설문 참여로 전원 CU 3천원권 받자",
@@ -3146,23 +3129,6 @@
    "run": false,
    "easy": false,
    "url": "https://www.instagram.com/oo.nuri/p/DfRLNMwEmhX/"
-  },
-  {
-   "id": "319141",
-   "host": "노스페이스에디션",
-   "title": "착한소비 기대제품 적고 아우터 받자",
-   "type": "댓글/단문",
-   "cat": "패션잡화",
-   "prize": "노스페이스 아우터-1명 외 총 6명",
-   "prizes": "노스페이스 아우터-1명 커피 쿠폰 3만원권-5명",
-   "start": "2026-10-29",
-   "end": "2026-11-07",
-   "announce": "2026-11-11",
-   "how": "팔로우 → 좋아요 → 제품 기대평 댓글",
-   "big": false,
-   "run": false,
-   "easy": true,
-   "url": "https://www.instagram.com/p/DfEiJOxEx10/"
   },
   {
    "id": "319134",
@@ -4321,23 +4287,6 @@
    "url": "https://www.instagram.com/p/DfOJKIQsoVB/"
   },
   {
-   "id": "318991",
-   "host": "수협중앙회",
-   "title": "수협 5만 구독 축하하고 배민권 받자",
-   "type": "댓글/단문",
-   "cat": "상품권",
-   "prize": "배달의민족 3천원 상품권-100명",
-   "prizes": "",
-   "start": "2026-11-02",
-   "end": "2026-11-15",
-   "announce": "2026-11-18",
-   "how": "구독 → 5만 축하댓글 → 인증사진 폼 제출",
-   "big": false,
-   "run": false,
-   "easy": false,
-   "url": "https://www.instagram.com/p/DfOL0Btjw_W/"
-  },
-  {
    "id": "318977",
    "host": "한강유역환경청",
    "title": "한강 물환경 설문하고 음료쿠폰 받자",
@@ -4931,23 +4880,6 @@
    "run": false,
    "easy": false,
    "url": "https://www.instagram.com/p/DfGx_DqmNbW/"
-  },
-  {
-   "id": "318925",
-   "host": "국토교통과학기술진흥원",
-   "title": "이모지 퀴즈 풀고 배라 파인트 받자",
-   "type": "퀴즈/퍼즐",
-   "cat": "기프티콘",
-   "prize": "배스킨라빈스 파인트 아이스크림-30명",
-   "prizes": "",
-   "start": "2026-10-30",
-   "end": "2026-11-07",
-   "announce": "2026-11-12",
-   "how": "팔로우 → 정답댓글 → 댓글캡처 폼제출",
-   "big": false,
-   "run": false,
-   "easy": false,
-   "url": "https://www.instagram.com/p/DfGWhLwAbvB/"
   },
   {
    "id": "318851",
@@ -6531,23 +6463,6 @@
    "url": "https://www.instagram.com/p/De83DOJzOMQ/"
   },
   {
-   "id": "318534",
-   "host": "비짓부산",
-   "title": "서부산 명소 추천하고 대저쌀 받자",
-   "type": "설문/투표",
-   "cat": "식료품",
-   "prize": "부산 대저 쌀 2kg-50명",
-   "prizes": "",
-   "start": "2026-10-26",
-   "end": "2026-11-07",
-   "announce": "2026-11-11",
-   "how": "폼접속 → 서부산명소·이유 → 정보제출",
-   "big": false,
-   "run": false,
-   "easy": false,
-   "url": "https://www.instagram.com/p/De8E0tqk-bS/"
-  },
-  {
    "id": "318533",
    "host": "매향리평화기념관",
    "title": "세로단어 맞히고 롯데리아 세트 받자",
@@ -6667,40 +6582,6 @@
    "url": "https://www.instagram.com/p/De8q_qQnVzB/"
   },
   {
-   "id": "318518",
-   "host": "국립충남기상과학관",
-   "title": "가을 퀴즈 풀고 스타벅스 라떼 받자",
-   "type": "퀴즈/퍼즐",
-   "cat": "기프티콘",
-   "prize": "스타벅스 카페라떼 기프티콘-50명",
-   "prizes": "",
-   "start": "2026-10-24",
-   "end": "2026-11-07",
-   "announce": "2026-11-07",
-   "how": "구독 → 좋아요 → 정답·구독캡처 폼제출",
-   "big": false,
-   "run": false,
-   "easy": false,
-   "url": "https://www.instagram.com/reels/De251iBy3Cw/"
-  },
-  {
-   "id": "318517",
-   "host": "창원시지역사회보장협의체",
-   "title": "친구 3명 태그해 스타벅스 커피 받자",
-   "type": "소문내기",
-   "cat": "기프티콘",
-   "prize": "스타벅스 아메리카노-50명",
-   "prizes": "",
-   "start": "2026-10-26",
-   "end": "2026-11-07",
-   "announce": "2026-11-17",
-   "how": "팔로우·좋아요 → 친구3명 태그·완료댓글",
-   "big": false,
-   "run": false,
-   "easy": true,
-   "url": "https://www.instagram.com/p/De8rRw3gj-U/"
-  },
-  {
    "id": "318516",
    "host": "삼성청년SWAI아카데미",
    "title": "SSAFY 응원 투표로 스탠바이미2 노리자",
@@ -6750,23 +6631,6 @@
    "run": false,
    "easy": false,
    "url": "https://www.instagram.com/p/De89qjageVI/"
-  },
-  {
-   "id": "318509",
-   "host": "지중해마을",
-   "title": "지중해마을 캐릭터명 맞히고 스벅쿠폰 받자",
-   "type": "퀴즈/퍼즐",
-   "cat": "기프티콘",
-   "prize": "스타벅스 쿠폰-300명",
-   "prizes": "",
-   "start": "2026-10-26",
-   "end": "2026-11-07",
-   "announce": "2026-11-12",
-   "how": "지중해마을 팔로우 → 새 캐릭터 이름 정답 댓글",
-   "big": false,
-   "run": false,
-   "easy": true,
-   "url": "https://www.instagram.com/p/De8brFaGaba/"
   },
   {
    "id": "318496",
@@ -7396,23 +7260,6 @@
    "run": false,
    "easy": false,
    "url": "https://www.instagram.com/p/DeOj9xQH_oD/"
-  },
-  {
-   "id": "318059",
-   "host": "모아온북",
-   "title": "2027년 자격시험 영상에 댓글 남기고 상품권 노리자",
-   "type": "댓글/단문",
-   "cat": "상품권",
-   "prize": "올리브영 5천원 모바일 상품권-30명",
-   "prizes": "",
-   "start": "2026-10-21",
-   "end": "2026-11-07",
-   "announce": "2026-11-11",
-   "how": "유튜브 구독 → 영상 시청과 좋아요 → 응원댓글",
-   "big": false,
-   "run": false,
-   "easy": false,
-   "url": "https://www.instagram.com/p/DewFTfiEyey/"
   },
   {
    "id": "318050",
