@@ -1,6 +1,6 @@
 {
- "updated": "2026-11-14",
- "count": 527,
+ "updated": "2026-11-15",
+ "count": 518,
  "events": [
   {
    "id": "320122",
@@ -1261,23 +1261,6 @@
    "url": "https://www.instagram.com/p/Dfouk6GyPj6/"
   },
   {
-   "id": "320123",
-   "host": "광주시문화재단",
-   "title": "카톡 채널 친구추가로 스타벅스 받자",
-   "type": "소문내기",
-   "cat": "기프티콘",
-   "prize": "스타벅스 아메리카노 모바일 쿠폰-100명",
-   "prizes": "",
-   "start": "2026-11-03",
-   "end": "2026-11-14",
-   "announce": "2026-11-16",
-   "how": "카톡 채널 검색·추가 → 캡처 → 폼 제출",
-   "big": false,
-   "run": false,
-   "easy": false,
-   "url": "https://www.instagram.com/p/DfQw1PwDzv1"
-  },
-  {
    "id": "320118",
    "host": "SP삼화",
    "title": "에포코트 빈칸 맞혀 SSG상품권 받자",
@@ -2383,57 +2366,6 @@
    "url": "https://www.instagram.com/p/DflNlR_BN-8/"
   },
   {
-   "id": "319912",
-   "host": "달칩",
-   "title": "달칩 제품 댓글 달고 달칩 샌드 받자",
-   "type": "댓글/단문",
-   "cat": "식료품",
-   "prize": "달칩 샌드 20개입 1박스-00명",
-   "prizes": "",
-   "start": "2026-11-11",
-   "end": "2026-11-14",
-   "announce": "2026-11-20",
-   "how": "팔로우 → 좋아요 → 달칩 제품 댓글",
-   "big": false,
-   "run": false,
-   "easy": true,
-   "url": "https://www.instagram.com/p/DflCYVNAXxi/"
-  },
-  {
-   "id": "319910",
-   "host": "충북청년희망센터",
-   "title": "센터 방문 친구 태그해 커피쿠폰 받자",
-   "type": "댓글/단문",
-   "cat": "기프티콘",
-   "prize": "커피디저트 쿠폰-50명",
-   "prizes": "",
-   "start": "2026-11-10",
-   "end": "2026-11-14",
-   "announce": "2026-11-23",
-   "how": "팔로우 → 친구태그·초대글 → 폼제출",
-   "big": false,
-   "run": false,
-   "easy": false,
-   "url": "https://www.instagram.com/p/Dfi_8SNEggn/"
-  },
-  {
-   "id": "319995",
-   "host": "고흥유자축제",
-   "title": "고흥 유자축제 포스터 올려 커피 받자",
-   "type": "소문내기",
-   "cat": "기프티콘",
-   "prize": "이디야 아메리카노-100명",
-   "prizes": "",
-   "start": "2026-11-11",
-   "end": "2026-11-14",
-   "announce": "2026-11-27",
-   "how": "포스터 선택 → SNS게시 → 네이버폼 제출",
-   "big": false,
-   "run": false,
-   "easy": false,
-   "url": "https://www.instagram.com/p/Dfll2g0Nv54/"
-  },
-  {
    "id": "319882",
    "host": "TYM",
    "title": "농업인 감사댓글 쓰고 커피쿠폰 받자",
@@ -3418,23 +3350,6 @@
    "run": false,
    "easy": false,
    "url": "https://www.instagram.com/p/DfjPY_tIN4q/"
-  },
-  {
-   "id": "319743",
-   "host": "써모스",
-   "title": "나만의 굳이데이 댓글로 텀블러 받자",
-   "type": "댓글/단문",
-   "cat": "생활용품",
-   "prize": "써모스 캐리 핸들 텀블러-3명",
-   "prizes": "",
-   "start": "2026-11-10",
-   "end": "2026-11-14",
-   "announce": "2026-11-18",
-   "how": "영상 확인 → 나만의 굳이데이 댓글 작성",
-   "big": false,
-   "run": false,
-   "easy": false,
-   "url": "https://www.instagram.com/p/DfiuwdagbSX/"
   },
   {
    "id": "319741",
@@ -4438,40 +4353,6 @@
    "run": false,
    "easy": true,
    "url": "https://www.instagram.com/p/DfREZfVE394/"
-  },
-  {
-   "id": "319666",
-   "host": "익산 서동시장",
-   "title": "서동시장 길 이름 짓고 다이소권 받자",
-   "type": "댓글/단문",
-   "cat": "상품권",
-   "prize": "다이소 모바일 상품권 5천원권-200명",
-   "prizes": "",
-   "start": "2026-11-09",
-   "end": "2026-11-14",
-   "announce": "2026-11-16",
-   "how": "팔로우 → 이름·뜻 댓글 → 폼 인증 제출",
-   "big": false,
-   "run": false,
-   "easy": false,
-   "url": "https://www.instagram.com/p/DfgQXdpz3LU/"
-  },
-  {
-   "id": "319665",
-   "host": "대한무역투자진흥공사",
-   "title": "수출 1조 달성일 예측해 키트 받자",
-   "type": "댓글/단문",
-   "cat": "현금,순금",
-   "prize": "수출 1조 달러 기념 트래블 키트-50명",
-   "prizes": "",
-   "start": "2026-11-09",
-   "end": "2026-11-14",
-   "announce": "2026-11-20",
-   "how": "날짜예측 → 참여완료 댓글캡처 → 폼제출",
-   "big": false,
-   "run": false,
-   "easy": false,
-   "url": "https://www.instagram.com/p/DfgIiAun8ZK/"
   },
   {
    "id": "319634",
@@ -7194,23 +7075,6 @@
    "url": "https://www.instagram.com/p/DfJ59snm7hK/"
   },
   {
-   "id": "319074",
-   "host": "본라인한의원",
-   "title": "팔로우 댓글로 배라 싱글레귤러 받자",
-   "type": "댓글/단문",
-   "cat": "기프티콘",
-   "prize": "배스킨라빈스 싱글레귤러 아이스크림-20명",
-   "prizes": "",
-   "start": "2026-11-01",
-   "end": "2026-11-14",
-   "announce": "2026-11-16",
-   "how": "팔로우 → 참여완료 댓글 → 친구태그",
-   "big": false,
-   "run": false,
-   "easy": true,
-   "url": "https://www.instagram.com/p/DfLZUEIFHWN/"
-  },
-  {
    "id": "319073",
    "host": "온책방",
    "title": "온책방 설문하고 도서 구독권 받자",
@@ -8076,23 +7940,6 @@
    "run": false,
    "easy": false,
    "url": "https://www.instagram.com/p/De0b12hibBe/"
-  },
-  {
-   "id": "318513",
-   "host": "부산여성가족과평생교육진흥원",
-   "title": "안전한 동네 댓글 남기고 커피 노리자",
-   "type": "단순응모",
-   "cat": "기프티콘",
-   "prize": "커피 모바일 쿠폰-100명",
-   "prizes": "",
-   "start": "2026-10-26",
-   "end": "2026-11-14",
-   "announce": "2026-11-19",
-   "how": "구독·좋아요 → 동네 댓글 → 캡처 폼제출",
-   "big": false,
-   "run": false,
-   "easy": false,
-   "url": "https://www.instagram.com/p/De89qjageVI/"
   },
   {
    "id": "318488",
